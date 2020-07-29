@@ -22,7 +22,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Angenor de Oliveira, mais conhecido como Cartola, foi um cantor, compositor, poeta e violonista brasileiro"}
+        videoDescription={"Yvonne Lara da Costa, mais conhecida como Dona Ivone Lara, foi uma cantora e compositora brasileira. Conhecida como Rainha do Samba e Grande Dama do Samba ela foi a primeira mulher a assinar um samba-enredo e a fazer parte da ala de compositores de uma escola, a Império Serrano."}
       />
 
       <Carousel
