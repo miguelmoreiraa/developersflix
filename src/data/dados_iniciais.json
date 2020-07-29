@@ -1,185 +1,186 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Dona Ivone Lara",
+      "link": "https://www.letras.mus.br/dona-ivone-lara/",
+      "cor": "#d63031",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Biografia de Dona Ivone Lara",
+        "url": "http://dicionariompb.com.br/dona-ivone-lara/biografia"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Dona Ivone Lara uma grande cantora e sambista brasileira",
+          "url": "https://www.youtube.com/watch?v=5BfTW-dWQlU"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Coração Apaixonado",
+          "url": "https://www.youtube.com/watch?v=UesUNkXpifI&feature=emb_logo"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Canto do Meu Viver",
+          "url": "https://www.youtube.com/watch?v=nE_rLzfYTO4&list=OLAK5uy_m1UeQpVu5xnK3FnKuu6N9vMkLqmsesUk0&index=9"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Ela é a Rainha",
+          "url": "https://www.youtube.com/watch?v=p3M9SPSlnBs&list=OLAK5uy_m1UeQpVu5xnK3FnKuu6N9vMkLqmsesUk0&index=12"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Dona Ivone Lara - Mas Quem Disse Que Eu Te Esqueço",
+          "url": "https://www.youtube.com/watch?v=3MV3QLmizgQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Dona Ivone, Arlindo e Zeca - Canto de rainha - Não chora neném",
+          "url": "https://www.youtube.com/watch?v=lHo1Wk0d4Co"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Lamento do Negro Ivone de Lara",
+          "url": "https://www.youtube.com/watch?v=4nxeKg2HxmM&feature=emb_logo"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Dona Ivone Lara - Sorriso Negro",
+          "url": "https://www.youtube.com/watch?v=xVtowndTTiE"
+        }
       ]
+    
+  },
+  {
+    "titulo": "Fundo de Quintal",
+    "cor": "#55efc4",
+    "link_extra": {
+      "text": "Tudo sobre o fundo de quintal",
+      "url": "https://www.grupofundodequintal.com.br/sobre-nos/"
     },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+    "videos": [
+      {
+        "titulo": "lalalalaal",
+        "url": "https://www.youtube.com/watch?v=rBoH_QL-kHw"
       },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+      {
+        "titulo": "A Amizade",
+        "url": "https://www.youtube.com/watch?v=rBoH_QL-kHw"
       },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      {
+        "titulo": "Um lindo Sonho",
+        "url": "https://www.youtube.com/watch?v=tPWlSde0A7k"
       },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      {
+        "titulo": "O show tem que continuar",
+        "url": "https://www.youtube.com/watch?v=_0mAeu8s5eA"
       },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
-      ]
-    }
-  ]
+      {
+        "titulo": "Nosso Grito",
+        "url": "https://www.youtube.com/watch?v=dXIzXjrJqPU"
+      }
+    ]
+  },
+  {
+    "titulo": "Arlindo Cruz",
+    "cor": "#4834d4",
+    "link_extra": {
+      "text": "Um pouco da história de Arlindo Cruz",
+      "url": "https://www.ebiografia.com/arlindo_cruz/"
+    },
+    "videos": [
+      {
+        "titulo": "Teste de Turing",
+        "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      },
+      {
+        "titulo": "Meu Lugar",
+        "url": "https://www.youtube.com/watch?v=vNK58tL6J70"
+      },
+      {
+        "titulo": "Arlindo Cruz - Meu Poeta ft. Zeca Pagodinho",
+        "url": "https://www.youtube.com/watch?v=DdMkQGFCQ1k"
+      },
+      {
+        "titulo": "Arlindo Cruz - O Bem",
+        "url": "https://www.youtube.com/watch?v=kixYoZXu2xY"
+      }
+    ]
+  },
+  {
+    "titulo": "Zeca Pagodinho",
+    "cor": "orange",
+    "videos": [
+      {
+        "titulo": "Interestellar",
+        "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      },
+      {
+        "titulo": "Faixa Amarela - Zeca Pagodinho",
+        "url": "https://www.youtube.com/watch?v=7YaHP3u4UK4"
+      },
+      {
+        "titulo": "Zeca Pagodinho - Quando A Gira Girou",
+        "url": "https://www.youtube.com/watch?v=Nm5N4iFLU0g"
+      },
+      {
+        "titulo": "Minha Fé - Zeca Pagodinho",
+        "url": "https://www.youtube.com/watch?v=fl4sSBjHQJ0"
+      }
+    ]
+  },
+  {
+    "titulo": "Almir Guineto",
+    "cor": "#fff200",
+    "link_extra": {
+      "text": "Conheça quem foi Almir Guineto",
+      "url": "https://www.sambando.com/almir-guineto"
+    },
+    "videos": [
+      {
+        "titulo": "Final Fantasy 7",
+        "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      },
+      {
+        "titulo": "Conselho",
+        "url": "https://www.youtube.com/watch?v=Cfz3ZbotxqE&feature=emb_logo"
+      },
+      {
+        "titulo": "Jibóia",
+        "url": "https://www.youtube.com/watch?v=C4T0euK_8es&feature=emb_logo"
+      },
+      {
+        "titulo": "Caxambú",
+        "url": "https://www.youtube.com/watch?v=8WOt4kWGNO0"
+      },
+      {
+        "titulo": "Azul do Meu Céu",
+        "url": "https://www.youtube.com/watch?v=i5E_kl34Ko8"
+      }
+    ]
+  },
+  {
+    "titulo": "Beth Carvalho",
+    "cor": "#6b5be2",
+    "link_extra": {
+      "text": "A Rainha",
+      "url": "https://www.ebiografia.com/beth_carvalho/"
+    },
+    "videos": [
+      {
+        "titulo": "Como estudar melhor?",
+        "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+      },
+      {
+        "titulo": "Andança",
+        "url": "https://www.youtube.com/watch?v=cysJHMvpXWQ&feature=emb_logo"
+      },
+      {
+        "titulo": "Coisinha do Pai",
+        "url": "https://www.youtube.com/watch?v=3HsK5OFHf_I&feature=emb_logo"
+      },
+      {
+        "titulo": "Beth Carvalho - Sem Ataque, Sem Defesa",
+        "url": "https://www.youtube.com/watch?v=n4SAYpL9zts"
+      },
+      {
+        "titulo": "Beth Carvalho, Arlindo Cruz, Sombrinha - Canto De Rainha",
+        "url": "https://www.youtube.com/watch?v=bNeM4lq-cd4"
+      }
+    ]
+  }
+]
 }
