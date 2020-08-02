@@ -35,16 +35,17 @@ function CadastroCategoria() {
     }
 
     useEffect(() => {
-        const URL = window.location.host.includes('localhost')
-            ? 'https://localhost:8080/categorias'
+        const URL = window.location.hostname.includes('localhost')
+            ? 'http://localhost:8080/categorias'
             : 'https://developersflix.herokuapp.com/categorias';
-        fetch(URL).then(async (respostaDoServidor) => {
-            const resposta = await respostaDoServidor.json();
-            console.log(respostaDoServidor)
-            setCategorias([
-                ...resposta,
-            ])
-        })
+        //Busca da dados
+        fetch(URL)
+            .then(async (respostaDoServidor) => {
+                const resposta = await respostaDoServidor.json();
+                setCategorias([
+                    ...resposta,
+                ])
+            })
 
     }, []);
 
