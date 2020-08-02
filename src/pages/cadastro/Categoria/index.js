@@ -35,11 +35,10 @@ function CadastroCategoria() {
     }
 
     useEffect(() => {
-        console.log('alo alo pro brasil');
-        const URL = 'http://localhost:8080/categorias';
-        fetch(URL)
-        fetch('http://localhost:8080/categorias')
-        .then(async (respostaDoServidor) => {
+        const URL = window.location.host.includes('localhost')
+            ? 'https://localhost:8080/categorias'
+            : 'https://developersflix.herokuapp.com/categorias';
+        fetch(URL).then(async (respostaDoServidor) => {
             const resposta = await respostaDoServidor.json();
             console.log(respostaDoServidor)
             setCategorias([
@@ -47,23 +46,6 @@ function CadastroCategoria() {
             ])
         })
 
-        // setTimeout(() => {
-        //     setCategorias([
-        //         ...categorias,
-        //         {
-        //             "id": 1,
-        //             "nome": "Front End",
-        //             "descricao": "Uma categoria bacanudassa",
-        //             "cor": "#cbd1ff"
-        //         },
-        //         {
-        //             "id": 2,
-        //             "nome": "Back End",
-        //             "descricao": "Outra categoria bacanudassa",
-        //             "cor": "#cbd1ff"
-        //         }
-        //     ]);
-        // }, 4 * 1000)
     }, []);
 
 
