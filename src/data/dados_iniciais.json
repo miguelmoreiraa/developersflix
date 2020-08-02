@@ -10,28 +10,16 @@
       },
       "videos": [
         {
-          "titulo": "Dona Ivone Lara uma grande cantora e sambista brasileira",
+          "titulo": "Sambas de Terreiro do Prazer da Serrinha - Ivone Lara",
           "url": "https://www.youtube.com/watch?v=5BfTW-dWQlU"
-        },
-        {
-          "titulo": "Coração Apaixonado",
-          "url": "https://www.youtube.com/watch?v=UesUNkXpifI&feature=emb_logo"
         },
         {
           "titulo": "Canto do Meu Viver",
           "url": "https://www.youtube.com/watch?v=nE_rLzfYTO4&list=OLAK5uy_m1UeQpVu5xnK3FnKuu6N9vMkLqmsesUk0&index=9"
         },
         {
-          "titulo": "Ela é a Rainha",
-          "url": "https://www.youtube.com/watch?v=p3M9SPSlnBs&list=OLAK5uy_m1UeQpVu5xnK3FnKuu6N9vMkLqmsesUk0&index=12"
-        },
-        {
           "titulo": "Dona Ivone Lara - Mas Quem Disse Que Eu Te Esqueço",
           "url": "https://www.youtube.com/watch?v=3MV3QLmizgQ"
-        },
-        {
-          "titulo": "Dona Ivone, Arlindo e Zeca - Canto de rainha - Não chora neném",
-          "url": "https://www.youtube.com/watch?v=lHo1Wk0d4Co"
         },
         {
           "titulo": "Lamento do Negro Ivone de Lara",
@@ -42,145 +30,152 @@
           "url": "https://www.youtube.com/watch?v=xVtowndTTiE"
         }
       ]
-    
-  },
-  {
-    "titulo": "Fundo de Quintal",
-    "cor": "#55efc4",
-    "link_extra": {
-      "text": "Tudo sobre o fundo de quintal",
-      "url": "https://www.grupofundodequintal.com.br/sobre-nos/"
     },
-    "videos": [
-      {
-        "titulo": "lalalalaal",
-        "url": "https://www.youtube.com/watch?v=rBoH_QL-kHw"
+    {
+      "titulo": "Fundo de Quintal",
+      "cor": "#55efc4",
+      "link_extra": {
+        "text": "Tudo sobre o fundo de quintal",
+        "url": "https://www.grupofundodequintal.com.br/sobre-nos/"
       },
-      {
-        "titulo": "A Amizade",
-        "url": "https://www.youtube.com/watch?v=rBoH_QL-kHw"
-      },
-      {
-        "titulo": "Um lindo Sonho",
-        "url": "https://www.youtube.com/watch?v=tPWlSde0A7k"
-      },
-      {
-        "titulo": "O show tem que continuar",
-        "url": "https://www.youtube.com/watch?v=_0mAeu8s5eA"
-      },
-      {
-        "titulo": "Nosso Grito",
-        "url": "https://www.youtube.com/watch?v=dXIzXjrJqPU"
-      }
-    ]
-  },
-  {
-    "titulo": "Arlindo Cruz",
-    "cor": "#4834d4",
-    "link_extra": {
-      "text": "Um pouco da história de Arlindo Cruz",
-      "url": "https://www.ebiografia.com/arlindo_cruz/"
+      "videos": [
+        {
+          "titulo": "lalalalaal",
+          "url": "https://www.youtube.com/watch?v=rBoH_QL-kHw"
+        },
+        {
+          "titulo": "A Amizade",
+          "url": "https://www.youtube.com/watch?v=rBoH_QL-kHw"
+        },
+        {
+          "titulo": "Um lindo Sonho",
+          "url": "https://www.youtube.com/watch?v=tPWlSde0A7k"
+        },
+        {
+          "titulo": "O show tem que continuar",
+          "url": "https://www.youtube.com/watch?v=_0mAeu8s5eA"
+        },
+        {
+          "titulo": "Nosso Grito",
+          "url": "https://www.youtube.com/watch?v=dXIzXjrJqPU"
+        }
+      ]
     },
-    "videos": [
-      {
-        "titulo": "Teste de Turing",
-        "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+    {
+      "titulo": "Arlindo Cruz",
+      "cor": "#4834d4",
+      "link_extra": {
+        "text": "Um pouco da história de Arlindo Cruz",
+        "url": "https://www.ebiografia.com/arlindo_cruz/"
       },
-      {
-        "titulo": "Meu Lugar",
-        "url": "https://www.youtube.com/watch?v=vNK58tL6J70"
-      },
-      {
-        "titulo": "Arlindo Cruz - Meu Poeta ft. Zeca Pagodinho",
-        "url": "https://www.youtube.com/watch?v=DdMkQGFCQ1k"
-      },
-      {
-        "titulo": "Arlindo Cruz - O Bem",
-        "url": "https://www.youtube.com/watch?v=kixYoZXu2xY"
-      }
-    ]
-  },
-  {
-    "titulo": "Zeca Pagodinho",
-    "cor": "orange",
-    "videos": [
-      {
-        "titulo": "Interestellar",
-        "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-      },
-      {
-        "titulo": "Faixa Amarela - Zeca Pagodinho",
-        "url": "https://www.youtube.com/watch?v=7YaHP3u4UK4"
-      },
-      {
-        "titulo": "Zeca Pagodinho - Quando A Gira Girou",
-        "url": "https://www.youtube.com/watch?v=Nm5N4iFLU0g"
-      },
-      {
-        "titulo": "Minha Fé - Zeca Pagodinho",
-        "url": "https://www.youtube.com/watch?v=fl4sSBjHQJ0"
-      }
-    ]
-  },
-  {
-    "titulo": "Almir Guineto",
-    "cor": "#fff200",
-    "link_extra": {
-      "text": "Conheça quem foi Almir Guineto",
-      "url": "https://www.sambando.com/almir-guineto"
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "Meu Lugar",
+          "url": "https://www.youtube.com/watch?v=vNK58tL6J70"
+        },
+        {
+          "titulo": "Arlindo Cruz - Meu Poeta ft. Zeca Pagodinho",
+          "url": "https://www.youtube.com/watch?v=DdMkQGFCQ1k"
+        },
+        {
+          "titulo": "Arlindo Cruz - O Bem",
+          "url": "https://www.youtube.com/watch?v=kixYoZXu2xY"
+        },
+        {
+          "titulo": "Arlindo Cruz - Será que é Amor?",
+          "url": "https://www.youtube.com/watch?v=pWlSqYvVDRg"
+        }
+      ]
     },
-    "videos": [
-      {
-        "titulo": "Final Fantasy 7",
-        "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-      },
-      {
-        "titulo": "Conselho",
-        "url": "https://www.youtube.com/watch?v=Cfz3ZbotxqE&feature=emb_logo"
-      },
-      {
-        "titulo": "Jibóia",
-        "url": "https://www.youtube.com/watch?v=C4T0euK_8es&feature=emb_logo"
-      },
-      {
-        "titulo": "Caxambú",
-        "url": "https://www.youtube.com/watch?v=8WOt4kWGNO0"
-      },
-      {
-        "titulo": "Azul do Meu Céu",
-        "url": "https://www.youtube.com/watch?v=i5E_kl34Ko8"
-      }
-    ]
-  },
-  {
-    "titulo": "Beth Carvalho",
-    "cor": "#6b5be2",
-    "link_extra": {
-      "text": "A Rainha",
-      "url": "https://www.ebiografia.com/beth_carvalho/"
+    {
+      "titulo": "Cartola",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Cartola - Tive sim",
+          "url": "https://www.youtube.com/watch?v=Wm2aDVb1CaA"
+        },
+        {
+          "titulo": "Cartola - O mundo é um moinho",
+          "url": "https://www.youtube.com/watch?v=dvpk1wL_zC8"
+        },
+        {
+          "titulo": "Cartola - Grande Deus",
+          "url": "https://www.youtube.com/watch?v=N706by3-7nc"
+        },
+        {
+          "titulo": "Cartola - Preciso Me Encontrar",
+          "url": "https://www.youtube.com/watch?v=TNkqert-yTQ"
+        }
+      ]
     },
-    "videos": [
-      {
-        "titulo": "Como estudar melhor?",
-        "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+    {
+      "titulo": "Almir Guineto",
+      "cor": "#fff200",
+      "link_extra": {
+        "text": "Conheça quem foi Almir Guineto",
+        "url": "https://www.sambando.com/almir-guineto"
       },
-      {
-        "titulo": "Andança",
-        "url": "https://www.youtube.com/watch?v=cysJHMvpXWQ&feature=emb_logo"
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Conselho",
+          "url": "https://www.youtube.com/watch?v=Cfz3ZbotxqE&feature=emb_logo"
+        },
+        {
+          "titulo": "Jibóia",
+          "url": "https://www.youtube.com/watch?v=C4T0euK_8es&feature=emb_logo"
+        },
+        {
+          "titulo": "Caxambú",
+          "url": "https://www.youtube.com/watch?v=8WOt4kWGNO0"
+        },
+        {
+          "titulo": "Azul do Meu Céu",
+          "url": "https://www.youtube.com/watch?v=i5E_kl34Ko8"
+        }
+      ]
+    },
+    {
+      "titulo": "Beth Carvalho",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "A Rainha",
+        "url": "https://www.ebiografia.com/beth_carvalho/"
       },
-      {
-        "titulo": "Coisinha do Pai",
-        "url": "https://www.youtube.com/watch?v=3HsK5OFHf_I&feature=emb_logo"
-      },
-      {
-        "titulo": "Beth Carvalho - Sem Ataque, Sem Defesa",
-        "url": "https://www.youtube.com/watch?v=n4SAYpL9zts"
-      },
-      {
-        "titulo": "Beth Carvalho, Arlindo Cruz, Sombrinha - Canto De Rainha",
-        "url": "https://www.youtube.com/watch?v=bNeM4lq-cd4"
-      }
-    ]
-  }
-]
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Andança",
+          "url": "https://www.youtube.com/watch?v=cysJHMvpXWQ&feature=emb_logo"
+        },
+        {
+          "titulo": "Coisinha do Pai",
+          "url": "https://www.youtube.com/watch?v=3HsK5OFHf_I&feature=emb_logo"
+        },
+        {
+          "titulo": "Beth Carvalho - Sem Ataque, Sem Defesa",
+          "url": "https://www.youtube.com/watch?v=n4SAYpL9zts"
+        },
+        {
+          "titulo": "Beth Carvalho, Arlindo Cruz, Sombrinha - Canto De Rainha",
+          "url": "https://www.youtube.com/watch?v=bNeM4lq-cd4"
+        }
+      ]
+    }
+  ]
 }
