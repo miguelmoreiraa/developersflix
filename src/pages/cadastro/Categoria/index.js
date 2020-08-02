@@ -35,31 +35,35 @@ function CadastroCategoria() {
     }
 
     useEffect(() => {
-        // console.log('alo alo pro brasil');
-        // const URL = 'http://localhost:8080/categorias';
-        // fetch(URL)
-        // fetch('http://localhost:8080/categorias').then(async (respostaDoServidor) => {
-        //     const resposta = await respostaDoServidor.json();
-        //     console.log(respostaDoServidor)
-        // })
-
-        setTimeout(() => {
+        console.log('alo alo pro brasil');
+        const URL = 'http://localhost:8080/categorias';
+        fetch(URL)
+        fetch('http://localhost:8080/categorias')
+        .then(async (respostaDoServidor) => {
+            const resposta = await respostaDoServidor.json();
+            console.log(respostaDoServidor)
             setCategorias([
-                ...categorias,
-                {
-                    "id": 1,
-                    "nome": "Front End",
-                    "descricao": "Uma categoria bacanudassa",
-                    "cor": "#cbd1ff"
-                },
-                {
-                    "id": 2,
-                    "nome": "Back End",
-                    "descricao": "Outra categoria bacanudassa",
-                    "cor": "#cbd1ff"
-                }
-            ]);
-        }, 4 * 1000)
+                ...resposta,
+            ])
+        })
+
+        // setTimeout(() => {
+        //     setCategorias([
+        //         ...categorias,
+        //         {
+        //             "id": 1,
+        //             "nome": "Front End",
+        //             "descricao": "Uma categoria bacanudassa",
+        //             "cor": "#cbd1ff"
+        //         },
+        //         {
+        //             "id": 2,
+        //             "nome": "Back End",
+        //             "descricao": "Outra categoria bacanudassa",
+        //             "cor": "#cbd1ff"
+        //         }
+        //     ]);
+        // }, 4 * 1000)
     }, []);
 
 
