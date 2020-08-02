@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import styled from 'styled-components';
 import FormField from '../../../components/FormField';
+import Button from '../../../components/Button';
 
 
 
@@ -32,6 +33,34 @@ function CadastroCategoria() {
             infosDoEvento.target.value
         );
     }
+
+    useEffect(() => {
+        // console.log('alo alo pro brasil');
+        // const URL = 'http://localhost:8080/categorias';
+        // fetch(URL)
+        // fetch('http://localhost:8080/categorias').then(async (respostaDoServidor) => {
+        //     const resposta = await respostaDoServidor.json();
+        //     console.log(respostaDoServidor)
+        // })
+
+        setTimeout(() => {
+            setCategorias([
+                ...categorias,
+                {
+                    "id": 1,
+                    "nome": "Front End",
+                    "descricao": "Uma categoria bacanudassa",
+                    "cor": "#cbd1ff"
+                },
+                {
+                    "id": 2,
+                    "nome": "Back End",
+                    "descricao": "Outra categoria bacanudassa",
+                    "cor": "#cbd1ff"
+                }
+            ]);
+        }, 4 * 1000)
+    }, []);
 
 
     return (
@@ -64,21 +93,9 @@ function CadastroCategoria() {
                 />
 
 
-                {/* <div>
-                    <label>
-                        Descrição:
-                         <textarea
-                            type="text"
-                            name="descricao"
-                            value={values.descricao}
-                            onChange={handleChange}
-                        />
-                    </label>
-
-                </div> */}
 
                 <FormField
-                    label="Cor "
+                    label="Cor"
                     type="color"
                     name="cor"
                     value={values.cor}
@@ -86,32 +103,19 @@ function CadastroCategoria() {
                 />
 
 
-                {/* <div>
-
-                    <label>
-                        Cor:
-                         <input
-                            type="color"
-                            name="cor"
-                            value={values.cor}
-                            onChange={handleChange}
-                        />
-                    </label>
-
-                </div> */}
-
-
-
-
-                <button>
+                <Button>
                     Cadastrar
-                </button>
+                </Button>
             </form>
 
+            {categorias.length === 0 && <div>
+                Loading...
+            </div>}
+
             <ul>
-                {categorias.map((categoria, indice) => {
+                {categorias.map((categoria) => {
                     return (
-                        <li key={`${categoria}${indice}`}>
+                        <li key={`${categoria.nome}`}>
                             {categoria.nome}
                         </li>
                     )
