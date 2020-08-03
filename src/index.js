@@ -13,7 +13,7 @@ import CadastroCategoria from './pages/cadastro/Categoria';
 const Pagina404 = () => (<div> Not Found
      <img src="https://images.tcdn.com.br/img/img_prod/731014/pin_icebrg_zeca_pagodinho_113_1_20200507002900.png" />
      </div>)
-
+  
 ReactDOM.render(
     < BrowserRouter >
         <Switch>
