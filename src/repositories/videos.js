@@ -18,6 +18,31 @@ function createVideos(objetoDoVideo) {
             throw new Error('Não foi possível cadastrar os dados :(')
         });
 }
+
+function deleteVideos(id) {
+    return fetch(`${URL_VIDEOS}/${id}`, {
+        method: 'DELETE',
+        headers: {
+            'Content-type': 'application/json'
+        },
+    })
+        .then(async (respostaDoServidor) => {
+            if (respostaDoServidor.ok) {
+                const resposta = await respostaDoServidor.json();
+                console.log(resposta);
+                return resposta;
+            }
+            throw new Error('Não foi possível conectar ao servidor :(')
+        });
+}
+
+
 export default {
     createVideos,
+    deleteVideos,
 }
+
+
+
+
+
