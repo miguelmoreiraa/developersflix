@@ -7,7 +7,7 @@ function Carousel({
   ignoreFirstVideo,
   category,
 }) {
-  const categoryTitle = category.titulo; 
+  const categoryTitle = category.titulo;
   const categoryColor = category.cor;
   const categoryExtraLink = category.link_extra;
   const videos = category.videos;
@@ -18,9 +18,9 @@ function Carousel({
           <Title style={{ backgroundColor: categoryColor || 'red' }}>
             {categoryTitle}
           </Title>
-          {categoryExtraLink && 
+          {categoryExtraLink &&
             <ExtraLink href={categoryExtraLink.url} target="_blank">
-              {categoryExtraLink.text}  
+              {categoryExtraLink.text}
             </ExtraLink>
           }
         </>
@@ -36,7 +36,9 @@ function Carousel({
               <VideoCard
                 videoTitle={video.titulo}
                 videoURL={video.url}
+                ImageURL={(video.urlImage != undefined) ? video.urlImage : video.url}
                 categoryColor={categoryColor}
+                videoId={video.id}
               />
             </SliderItem>
           );

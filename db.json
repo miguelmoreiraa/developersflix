@@ -83,12 +83,6 @@
       "url": "https://www.youtube.com/watch?v=4nxeKg2HxmM&feature=emb_logo"
     },
     {
-      "id": 6,
-      "categoriaId": 1,
-      "titulo": "Dona Ivone Lara - Sorriso Negro",
-      "url": "https://www.youtube.com/watch?v=xVtowndTTiE"
-    },
-    {
       "id": 7,
       "categoriaId": 2,
       "titulo": "A Amizade",
@@ -129,12 +123,6 @@
       "categoriaId": 3,
       "titulo": "Arlindo Cruz - O Bem",
       "url": "https://www.youtube.com/watch?v=kixYoZXu2xY"
-    },
-    {
-      "id": 14,
-      "categoriaId": 3,
-      "titulo": "Arlindo Cruz - Será que é Amor?",
-      "url": "https://www.youtube.com/watch?v=pWlSqYvVDRg"
     },
     {
       "id": 15,
