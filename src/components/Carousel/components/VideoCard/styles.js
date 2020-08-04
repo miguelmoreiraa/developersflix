@@ -27,11 +27,16 @@ export const VideoCardContainer = styled.a`
   display: flex;
   align-items: flex-end;
   padding: 16px;
-
   transition: opacity .3s;
+  transition: transform .5s;
   &:hover,
   &:focus {
-    opacity: .5;
+    opacity: .75;
+    transform: scale(1.10);
+    ${VideoCardTitulo}{
+      transition: opacity 0.3s;
+      opacity: 1;
+    }
   }
   
   &:not(:first-child) {
