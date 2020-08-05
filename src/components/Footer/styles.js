@@ -14,3 +14,19 @@ export const FooterBase = styled.footer`
     margin-bottom: 50px;
   }
 `;
+
+export const ImgFooter = styled.img`
+  margin-left: 50px;
+  height: 70px;
+  padding-bottom: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  @media (max-width: 800px) {
+    margin-bottom: 50px;
+  }
+`
+
+
+
