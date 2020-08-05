@@ -6,6 +6,9 @@ import Carousel from '../../components/Carousel'
 import PageDefault from '../../components/PageDefault';
 import categoriasRepository from '../../repositories/categorias'
 
+import gifLoading from '../../components/assets/images/loading.gif'
+import Loading from '../../components/Loading';
+
 const AppWrapper = styled.div`
   background: var(--grayDark);
  
@@ -34,7 +37,9 @@ function Home() {
 
   return (
     <PageDefault paddingAll={0}>
-      {dadosIniciais.length === 0 && (<div>Loading...</div>)}
+      {dadosIniciais.length === 0 && (<Loading>
+          <img src={gifLoading}/>
+      </Loading>)}
 
       {dadosIniciais.map((categoria, indice) => {
         if (indice === 0) {
